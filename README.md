@@ -29,3 +29,11 @@
 <img width="1054" alt="Screenshot 2025-03-08 at 6 50 36 PM" src="https://github.com/user-attachments/assets/9f2db7cf-3674-41f3-bb36-2f0d862b751b" />
 
 
+
+## Using llama3.1 8B model -> 
+
+### Fails due to OOM issue :( 
+<img width="1058" alt="Screenshot 2025-03-08 at 6 23 21 PM" src="https://github.com/user-attachments/assets/45611385-68a8-4920-a99b-f79eaece7a0c" />
+<img width="1073" alt="Screenshot 2025-03-08 at 6 23 30 PM" src="https://github.com/user-attachments/assets/c323e637-c96b-4871-b10a-7571d428cd83" />
+<img width="1075" alt="Screenshot 2025-03-08 at 6 23 37 PM" src="https://github.com/user-attachments/assets/d3c45a35-4c27-4f3b-a8c7-b73b935f9b42" />
+
